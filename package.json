@@ -1,0 +1,15 @@
+{
+  "name": "factorio-package-manager",
+  "version": "0.1.0",
+  "description": "Factorio package manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Luchanso/fpm",
+  "author": "GitHub",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
