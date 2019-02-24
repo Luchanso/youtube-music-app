@@ -14,7 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "cross-env": "^5.2.0",
-    "electron": "^4.0.4",
+    "electron": "4.0.5",
     "electron-builder": "20.28.4",
     "electron-builder-squirrel-windows": "20.28.3"
   },
