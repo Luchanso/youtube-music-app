@@ -1,6 +1,6 @@
 {
   "name": "factorio-package-manager",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Factorio package manager",
   "main": "main/index.js",
   "scripts": {
