@@ -13,9 +13,9 @@
   "author": "GitHub",
   "license": "MIT",
   "devDependencies": {
-    "@types/next": "^8.0.1",
-    "@types/styled-components": "^4.1.10",
-    "babel-plugin-styled-components": "^1.10.0",
+    "@types/next": "8.0.1",
+    "@types/styled-components": "4.1.10",
+    "babel-plugin-styled-components": "1.10.0",
     "cross-env": "5.2.0",
     "electron": "4.0.5",
     "electron-builder": "20.38.5",
