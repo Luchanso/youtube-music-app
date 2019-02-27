@@ -17,7 +17,7 @@
     "@types/styled-components": "4.1.10",
     "babel-plugin-styled-components": "1.10.0",
     "cross-env": "5.2.0",
-    "electron": "4.0.5",
+    "electron": "4.0.6",
     "electron-builder": "20.38.5",
     "electron-builder-squirrel-windows": "20.39.0"
   },
