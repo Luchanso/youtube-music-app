@@ -1,16 +1,14 @@
 {
-  "name": "factorio-package-manager",
+  "name": "youtube-music-app",
   "version": "0.1.0",
-  "description": "Factorio package manager",
+  "description": "Youtube music application",
   "main": "main/index.js",
   "scripts": {
     "start": "electron main",
-    "build": "yarn build-renderer && yarn build-app",
-    "build-app": "build",
-    "build-renderer": "cross-env NODE_ENV=production next build renderer && next export renderer"
+    "build": "build"
   },
-  "repository": "https://github.com/Luchanso/fpm",
-  "author": "GitHub",
+  "repository": "https://github.com/Luchanso/youtube-music-app",
+  "author": "oleg@loutchansky.com",
   "license": "MIT",
   "devDependencies": {
     "@types/next": "8.0.1",
