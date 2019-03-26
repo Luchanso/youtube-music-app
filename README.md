@@ -1,4 +1,4 @@
-# Youtube music application
+# YouTube music application
 
 ![image](https://user-images.githubusercontent.com/2098777/54933010-eaebfb80-4f2c-11e9-9049-7bf1d40b9d6e.png)
 
