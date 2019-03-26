@@ -7,6 +7,7 @@ Standalone application for MacOS, Linux, Windows
 Features:
 * All features from https://music.youtube.com/
 * Global hotkeys [In progress]
-* Always uptodate
+* Always up-to-date
 * Simple and fast
 * For all platforms [In progress]
+* Simple contol [In progress]
