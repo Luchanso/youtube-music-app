@@ -22,7 +22,7 @@ app.on('ready', async () => {
       nodeIntegration: true
     }
   });
-
+  mainWindow.setMenu(null);
   mainWindow.loadURL('https://music.youtube.com/');
 
   mainWindow.on('closed', function() {
