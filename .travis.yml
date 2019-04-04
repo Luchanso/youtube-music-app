@@ -1,10 +1,9 @@
 language: node_js
 node_js:
-  - "10"
   - "lts/*"
   - "node"
 
 matrix:
   include:
-    os: osx
-    os: windows
+    - os: osx
+    - os: windows
