@@ -1,5 +1,7 @@
 # YouTube music application
 
+> Disclaimer: YT Music is an unofficial application and not affiliated with YouTube or Google Inc. in any way. "YouTube", "YouTube Music" and the "YouTube Logo" are registered trademarks of Google Inc.
+
 ![image](https://user-images.githubusercontent.com/2098777/54933010-eaebfb80-4f2c-11e9-9049-7bf1d40b9d6e.png)
 
 Standalone application for MacOS, Linux, Windows
