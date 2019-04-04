@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "lts/*"
+  - "node"
+cache: yarn
+
+matrix:
+  fast_finish: true
+  include:
+    - os: osx
+    - os: windows
