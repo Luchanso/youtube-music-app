@@ -5,7 +5,8 @@
   "main": "main/index.js",
   "scripts": {
     "start": "electron main",
-    "build": "build"
+    "build": "build",
+    "test": "echo \"Tests not exist 😢\""
   },
   "repository": "https://github.com/Luchanso/youtube-music-app",
   "author": "oleg@loutchansky.com",
