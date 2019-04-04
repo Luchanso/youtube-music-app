@@ -6,8 +6,13 @@ Standalone application for MacOS, Linux, Windows
 
 Features:
 * All features from https://music.youtube.com/
-* Global hotkeys [In progress]
+* Global hotkeys
+  * Shift+F5 Previes song
+  * Shift+F6 Next song
+  * Shift+F7 Play/Pause
+  * Customize hotkeys [In progress]
 * Always up-to-date
 * Simple and fast
 * For all platforms [In progress]
-* Simple contol [In progress]
+* Simple controls [In progress]
+* Voice control RU and EN, [In Progress]
