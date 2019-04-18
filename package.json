@@ -24,7 +24,7 @@
     "@types/electron": "^1.6.10",
     "@zeit/next-typescript": "^1.1.1",
     "cheerio": "^1.0.0-rc.2",
-    "electron-better-ipc": "^0.1.2",
+    "electron-better-ipc": "^0.3.0",
     "electron-next": "^3.1.5",
     "next": "8.0.4",
     "react": "^16.8.3",
