@@ -2483,10 +2483,12 @@ ejs@^2.6.1:
   resolved "https://registry.yarnpkg.com/ejs/-/ejs-2.6.1.tgz#498ec0d495655abc6f23cd61868d926464071aa0"
   integrity sha512-0xy4A/twfrRCnkhfk8ErDi5DqdAsAqeGxht4xkCUrsvhhbQNs7E+4jV0CN7+NKIY0aHE72+XvqtBIXzD31ZbXQ==
 
-electron-better-ipc@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/electron-better-ipc/-/electron-better-ipc-0.1.2.tgz#8ff9d216d0a70924bca466699bcb50c5d42911e5"
-  integrity sha512-tn00v9+/kcln2nV7GCffXzaoVUMoH7HHQj0Sya43U7xt2bqgjT1DF5T3+nkG2CChkuCE/TgVTQyFOv2jm0Vogg==
+electron-better-ipc@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/electron-better-ipc/-/electron-better-ipc-0.3.0.tgz#e59e2f00195d4391c8c896a557a226b4ffc72fbd"
+  integrity sha512-yfMasvk4wHvgQlPJYgSKfkT8hjzEp/Zw5zVWlBsW0nX7rnHSUMbH3cMy732FOmTNebdhYqXqdVtuOogIJk9lVA==
+  dependencies:
+    type-fest "^0.3.1"
 
 electron-builder-squirrel-windows@20.40.0:
   version "20.40.0"
@@ -6085,6 +6087,11 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
   integrity sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
+
+type-fest@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.3.1.tgz#63d00d204e059474fe5e1b7c011112bbd1dc29e1"
+  integrity sha512-cUGJnCdr4STbePCgqNFbpVNCepa+kAVohJs1sLhxzdH+gnEoOd8VhbYa7pD3zZYGiURWM2xzEII3fQcRizDkYQ==
 
 typedarray@^0.0.6:
   version "0.0.6"
